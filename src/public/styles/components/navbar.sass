@@ -1,0 +1,30 @@
+.navbar
+    border-bottom: 1px solid #00000015
+    align-items: center
+    display: flex
+    height: 4rem
+    width: 100%
+
+    &-link
+        text-decoration: none
+        color: #000000bb
+        margin-right: .5rem
+
+        &:hover
+            text-decoration-color: #ffcb0d
+            text-decoration-line: underline
+
+    &-activelink
+        text-decoration-color: #ffcb0d
+        text-decoration-line: underline
+
+.logo
+    margin-right: 1.5rem
+    margin-left: 3rem
+    color: #ffcb0d
+    font-weight: 500
+    font-size: 20px
+
+@media screen and ( max-width: 55rem )
+    .logo
+        margin-left: 1rem

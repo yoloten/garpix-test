@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "last_name": "Адамс",
+        "first_name": "Дуглас"
+    },
+    {
+        "id": 2,
+        "last_name": "Азимов",
+        "first_name": "Айзек"
+    },
+    {
+        "id": 3,
+        "last_name": "Симмонс",
+        "first_name": "Дэн"
+    },
+    {
+        "id": 4,
+        "last_name": "Лем",
+        "first_name": "Станислав"
+    },
+    {
+        "id": 5,
+        "last_name": "Хайнлайн",
+        "first_name": "Роберт"
+    },
+    {
+        "id": 6,
+        "last_name": "Кларк",
+        "first_name": "Артур"
+    }
+]

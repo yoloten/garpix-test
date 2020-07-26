@@ -1,0 +1,48 @@
+.table
+    margin-top: 2rem
+    width: 100%
+    // border: 1px solid red
+
+    &-item
+        justify-content: space-between
+        margin-bottom: 1rem
+        display: flex
+
+    &-row
+        margin-right: 1.5rem
+        align-items: center
+        display: flex
+        width: 12rem
+
+    &-actions
+        justify-content: space-between
+        align-items: center
+        align-self: center
+        min-width: 5rem
+        height: 1.25rem
+        cursor: pointer
+        display: flex
+
+.grey
+    color: #00000077
+    font-size: 0.85rem
+
+@media screen and ( max-width: 600px )
+    .table
+        &-item
+            border-bottom: 1px solid #00000015
+            flex-direction: column
+            height: 11rem
+            width: 50%
+
+        &-change
+            display: flex
+
+        &-actions
+            margin-bottom: 1rem
+            align-self: start
+            width: 2rem
+
+        &-row
+            min-height: 3rem
+            width: 14rem

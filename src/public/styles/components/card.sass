@@ -1,0 +1,41 @@
+.card
+    display: flex
+
+    &-goTo
+        align-items: center
+        min-width: 50%
+        display: flex
+
+    &-icon
+        justify-content: center
+        min-width: 13rem
+        display: flex
+
+    &-textbox
+        flex-direction: column
+        min-width: 13.5rem
+        margin-right: 1rem
+        align-self: center
+        margin-left: 1rem
+        line-height: 1.5
+        height: 6.3rem
+        display: flex
+
+@media screen and ( max-width: 55rem )
+    .card
+        flex-direction: column
+        align-items: center
+
+        &-goTo
+            flex-direction: column
+            margin-bottom: 3.5rem
+
+        &-icon.icon
+            width: 100%
+
+        &-textbox
+            align-items: center
+            margin-right: 0rem
+            text-align: center
+            margin-left: 0rem
+            margin-top: 1rem

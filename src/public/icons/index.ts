@@ -1,0 +1,5 @@
+export { default as Author } from "./Author"
+export { default as Books } from "./Books"
+export { default as Trash } from "./Trash"
+export { default as Edit } from "./Edit"
+export { default as Eye } from "./Eye"

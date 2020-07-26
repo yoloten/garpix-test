@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Автостопом по Галактике",
+        "author_id": 1,
+        "year": 1979,
+        "created_at": 1595548800
+    },
+    {
+        "id": 2,
+        "title": "Я, робот",
+        "author_id": 2,
+        "year": 1950,
+        "created_at": 1595548800
+    },
+    {
+        "id": 3,
+        "title": "Основание",
+        "author_id": 2,
+        "year": 1951,
+        "created_at": 1595548800
+    },
+    {
+        "id": 4,
+        "title": "Гиперион",
+        "author_id": 3,
+        "year": 1989,
+        "created_at": 1595548800
+    },
+    {
+        "id": 5,
+        "title": "Падение Гипериона",
+        "author_id": 3,
+        "year": 1989,
+        "created_at": 1595548800
+    },
+    {
+        "id": 6,
+        "title": "Эндимион",
+        "author_id": 3,
+        "year": 1996,
+        "created_at": 1595548800
+    },
+    {
+        "id": 7,
+        "title": "Восход Эндимиона",
+        "author_id": 3,
+        "year": 1989,
+        "created_at": 1595548800
+    },
+    {
+        "id": 8,
+        "title": "Солярис",
+        "author_id": 4,
+        "year": 1961,
+        "created_at": 1595548800
+    },
+    {
+        "id": 9,
+        "title": "Звёздные дневники Ийона Тихого",
+        "author_id": 4,
+        "year": 1957,
+        "created_at": 1595548800
+    },
+    {
+        "id": 10,
+        "title": "Пасынки Вселенной",
+        "author_id": 5,
+        "year": 1963,
+        "created_at": 1595548800
+    },
+    {
+        "id": 11,
+        "title": "Звёздный десант",
+        "author_id": 5,
+        "year": 1959,
+        "created_at": 1595548800
+    },
+    {
+        "id": 12,
+        "title": "2001: Космическая одиссея",
+        "author_id": 6,
+        "year": 1968,
+        "created_at": 1595548800
+    }
+]
